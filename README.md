@@ -19,23 +19,13 @@
 
 ## 🧾 Who I Am
 
-```typescript
-const akshad = {
-  title: "Data Analyst / Data Science",
-  stack: [
-    "Advanced Excel", "SQL", "Python", "Power BI", "Tableau",
-    "NumPy", "Pandas", "Matplotlib", "Seaborn", "Machine Learning"
-  ],
-  launchedProjects: [
-    "Loan Risk & Performance Analysis",
-    "Metro System using SQL",
-    "Dmart Sales Analysis Dashboard"
-  ],
-  certifications: [],
-  status: "Open to Work",
-  openTo: ["Data Analyst roles", "Data Science roles", "Collaborations"]
-};
-```
+| | |
+|---|---|
+| 🎯 **Title** | Data Analyst / Data Science |
+| 🧰 **Stack** | Advanced Excel, SQL, Python, Power BI, Tableau, NumPy, Pandas, Matplotlib, Seaborn, Machine Learning |
+| 🚀 **Projects** | Loan Risk & Performance Analysis · Metro System using SQL · Dmart Sales Analysis Dashboard |
+| 📌 **Status** | Open to Work |
+| 🌱 **Open To** | Data Analyst roles, Data Science roles, Collaborations |
 
 <br/>
 
