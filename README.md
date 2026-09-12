@@ -1,151 +1,97 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B4F527&height=220&section=header&text=Akshad%20Shende&fontSize=48&fontColor=1a1a1a&animation=twinkling&fontAlignY=35&desc=Data%20Analyst%20%7C%20Data%20Science&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:334155&height=180&section=header&text=Akshad%20Shende&fontSize=42&fontColor=FF6B6B&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20%7C%20Data%20Science&descAlignY=60&descSize=16&descColor=F1F5F9" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=B4F527&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+insights;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Building+dashboards+that+tell+stories;Always+learning%2C+always+analyzing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1200&color=FF6B6B&center=true&vCenter=true&width=560&lines=Turning+raw+data+into+insights;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Building+dashboards+that+tell+stories" alt="Typing SVG" />
 </a>
 
-<br/>
-
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-B4F527?style=for-the-badge&logo=data:image/png;base64,&logoColor=black&labelColor=1a1a1a)
-
-<img src="https://komarev.com/ghpvc/?username=Akshad28&color=B4F527&style=flat-square&label=Profile+Views" />
-<img src="https://img.shields.io/github/followers/Akshad28?label=Followers&style=flat-square&color=B4F527" />
-
 </div>
 
 <br/>
 
-## 🧾 Who I Am
+**🎯 Data Analyst / Data Science** &nbsp;·&nbsp; 📌 Open to Work &nbsp;·&nbsp; 🌱 Data Analyst & Data Science roles, collaborations
 
-| | |
-|---|---|
-| 🎯 **Title** | Data Analyst / Data Science |
-| 🧰 **Stack** | Advanced Excel, SQL, Python, Power BI, Tableau, NumPy, Pandas, Matplotlib, Seaborn, Machine Learning |
-| 🚀 **Projects** | German Car Price Predictor · FIFA Player Analytics Suite · Metro System using SQL · Dmart Sales Analysis Dashboard |
-| 📌 **Status** | Open to Work |
-| 🌱 **Open To** | Data Analyst roles, Data Science roles, Collaborations |
+**Stack:** Advanced Excel · SQL · Python · Power BI · Tableau · NumPy · Pandas · Scikit-learn
 
-<br/>
+---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🚗 German Car Price Predictor
+**🚗 [German Car Price Predictor](https://github.com/Akshad28/German-Car-Price-Predictor)**
 Predicted resale prices for VW and Audi vehicles using the "100,000 UK Used Car Data Set," comparing Linear Regression and Random Forest models inside a scikit-learn pipeline, deployed as an interactive Streamlit app.
+`Python` `Pandas` `Scikit-learn` `Streamlit`
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshad28&repo=German-Car-Price-Predictor&theme=nord&border_color=B4F527" />
+**⚽ [FIFA Player Analytics Suite](REPLACE-WITH-LINK)**
+Built a four-dashboard Power BI suite analyzing 122,000+ player records and 43,000+ unique players across seven FIFA editions, with a star-schema data model and 25+ DAX measures.
+`Python` `Power Query` `DAX` `Power BI`
 
-| Layer | Technology |
-|---|---|
-| Analysis & Modeling | Python, Pandas, Scikit-learn |
-| Deployment | Streamlit |
-
-🔗 [Code](https://github.com/Akshad28/German-Car-Price-Predictor)
-
-<br/>
-
-### ⚽ FIFA Player Analytics Suite (FIFA 17–23)
-Built a four-dashboard Power BI analytics suite analyzing 122,000+ player records and 43,000+ unique players across seven FIFA editions, with a star-schema data model and 25+ DAX measures.
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshad28&repo=REPLACE-WITH-FIFA-REPO-NAME&theme=nord&border_color=B4F527" />
-
-| Layer | Technology |
-|---|---|
-| ETL & Modeling | Python, Power Query, DAX |
-| Visualization | Power BI |
-
-🔗 [Dashboard/Code](REPLACE-WITH-LINK)
-
-<br/>
-
-### 🚇 Metro System using SQL
+**🚇 [Metro System using SQL](https://github.com/Akshad28/Metro-System-using-SQL)**
 Designed and queried a relational database modeling a metro transit system, covering routes, stations, and passenger data.
+`SQL` `Relational Schema Design`
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshad28&repo=Metro-System-using-SQL&theme=nord&border_color=B4F527" />
-
-| Layer | Technology |
-|---|---|
-| Database | SQL |
-| Design | Relational Schema Modeling |
-
-🔗 [Code](https://github.com/Akshad28/Metro-System-using-SQL)
-
-<br/>
-
-### 🛒 Dmart Sales Analysis Dashboard
+**🛒 [Dmart Sales Analysis Dashboard](https://github.com/Akshad28/Dmart-Sales-Analysis-Dashboard)**
 Built an interactive dashboard analyzing D-Mart sales trends, revenue performance, and category-wise insights.
+`Excel` `SQL` `Power BI` `Tableau`
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshad28&repo=Dmart-Sales-Analysis-Dashboard&theme=nord&border_color=B4F527" />
+<div align="center">
 
-| Layer | Technology |
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshad28&repo=German-Car-Price-Predictor&theme=transparent&border_color=FF6B6B&title_color=FF6B6B&text_color=94A3B8&icon_color=FF6B6B" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshad28&repo=REPLACE-WITH-FIFA-REPO-NAME&theme=transparent&border_color=FF6B6B&title_color=FF6B6B&text_color=94A3B8&icon_color=FF6B6B" />
+
+</div>
+
+---
+
+## Tech Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=py,mysql,git" />
+</div>
+
+| Category | Tools |
 |---|---|
-| Analysis | Excel, SQL |
-| Visualization | Power BI / Tableau |
+| Languages & DB | Python, SQL |
+| Data Handling | Pandas, NumPy |
+| Visualization | Matplotlib, Seaborn, Power BI, Tableau |
+| Modeling | Scikit-learn |
+| Deployment | Streamlit |
+| Other | Advanced Excel, Git |
 
-🔗 [Code](https://github.com/Akshad28/Dmart-Sales-Analysis-Dashboard)
+---
 
-<br/>
-
-## 🛠️ Tech Stack
-
-**Languages & Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=py,mysql" />
-
-**Data Analysis & Machine Learning**
-<br/>
-![NumPy](https://img.shields.io/badge/NumPy-B4F527?style=for-the-badge&logo=numpy&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-B4F527?style=for-the-badge&logo=pandas&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-B4F527?style=for-the-badge&logo=plotly&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-B4F527?style=for-the-badge&logo=seaborn&logoColor=black)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-B4F527?style=for-the-badge&logo=scikitlearn&logoColor=black)
-
-**Visualization & BI Tools**
-<br/>
-![Power BI](https://img.shields.io/badge/Power%20BI-B4F527?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-B4F527?style=for-the-badge&logo=tableau&logoColor=black)
-![Excel](https://img.shields.io/badge/Advanced%20Excel-B4F527?style=for-the-badge&logo=microsoftexcel&logoColor=black)
-
-<br/>
-
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akshad28&show_icons=true&theme=nord&border_color=B4F527&title_color=B4F527&icon_color=B4F527&text_color=c9d1d9&bg_color=0d1117" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshad28&layout=compact&theme=nord&border_color=B4F527&title_color=B4F527&text_color=c9d1d9&bg_color=0d1117" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Akshad28&show_icons=true&theme=transparent&border_color=FF6B6B&title_color=FF6B6B&icon_color=FF6B6B&text_color=94A3B8&hide_border=false" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshad28&layout=compact&theme=transparent&border_color=FF6B6B&title_color=FF6B6B&text_color=94A3B8&hide_border=false" width="48%" />
 
-<img src="https://streak-stats.demolab.com/?user=Akshad28&theme=nord&border=B4F527&ring=B4F527&fire=B4F527&currStreakLabel=B4F527" width="98%" />
+<img src="https://streak-stats.demolab.com/?user=Akshad28&theme=transparent&border=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" width="98%" />
 
 </div>
 
+<details>
+<summary><b>🏆 Trophies</b></summary>
 <br/>
-
-## 🏆 Trophies
-
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Akshad28&theme=nord&no-frame=true&no-bg=true&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=Akshad28&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" />
 </div>
+</details>
 
+<details>
+<summary><b>📅 Contribution Activity</b></summary>
 <br/>
-
-## 📅 Contribution Activity
-
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshad28&theme=react-dark&color=B4F527&line=B4F527&point=ffffff&area=true&hide_border=true" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshad28&theme=minimal&hide_border=true" width="98%" />
 </div>
+</details>
 
-<br/>
-
-## 🔗 Connect With Me
+---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-B4F527?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/akshad-shende8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E293B?style=flat-square&logo=linkedin&logoColor=FF6B6B)](https://www.linkedin.com/in/akshad-shende8)
+<img src="https://komarev.com/ghpvc/?username=Akshad28&color=FF6B6B&style=flat-square&label=Profile+Views" />
 
 </div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B4F527&height=120&section=footer" width="100%"/>
