@@ -81,9 +81,11 @@ Built an interactive dashboard analyzing D-Mart sales trends, revenue performanc
 </table>
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshad28&repo=German-Car-Price-Predictor&theme=dracula&border_color=FFD700&hide_border=false" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshad28&repo=REPLACE-WITH-FIFA-REPO-NAME&theme=dracula&border_color=FFD700&hide_border=false" />
+[![FIFA Player Analytics Suite](https://img.shields.io/badge/⚽_FIFA_Player_Analytics_Suite-FFD700?style=for-the-badge&labelColor=2D1B4E)](REPLACE-WITH-LINK)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshad28&repo=Metro-System-using-SQL&theme=dracula&border_color=9D4EDD&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshad28&repo=Dmart-Sales-Analysis-Dashboard&theme=dracula&border_color=9D4EDD&hide_border=false" />
 
-*(Gold border marks the two headline data-science projects — the purple pin cards for Metro/Dmart below keep the visual hierarchy clear.)*
+*(Gold border marks German Car — a real, linkable repo, so its pin card can render properly. FIFA shows as a plain badge instead of a pin card, since a GitHub-stats pin can only render for a real public repo — swap it for a matching pin once you give me the repo/link. Purple-bordered pins mark Metro/Dmart as supporting projects.)*
 
 <br/>
 
