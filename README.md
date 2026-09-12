@@ -23,7 +23,7 @@
 |---|---|
 | 🎯 **Title** | Data Analyst / Data Science |
 | 🧰 **Stack** | Advanced Excel, SQL, Python, Power BI, Tableau, NumPy, Pandas, Matplotlib, Seaborn, Machine Learning |
-| 🚀 **Projects** | Loan Risk & Performance Analysis · Metro System using SQL · Dmart Sales Analysis Dashboard |
+| 🚀 **Projects** | German Car Price Predictor · FIFA Player Analytics Suite · Metro System using SQL · Dmart Sales Analysis Dashboard |
 | 📌 **Status** | Open to Work |
 | 🌱 **Open To** | Data Analyst roles, Data Science roles, Collaborations |
 
@@ -31,17 +31,31 @@
 
 ## 🚀 Featured Projects
 
-### 📊 Loan Risk & Performance Analysis
-Analyzed loan portfolio data to uncover risk patterns, default trends, and key performance indicators for smarter lending decisions.
+### 🚗 German Car Price Predictor
+Predicted resale prices for VW and Audi vehicles using the "100,000 UK Used Car Data Set," comparing Linear Regression and Random Forest models inside a scikit-learn pipeline, deployed as an interactive Streamlit app.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshad28&repo=Loan-Risk-and-Performance-Analysis&theme=nord&border_color=B4F527" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshad28&repo=German-Car-Price-Predictor&theme=nord&border_color=B4F527" />
 
 | Layer | Technology |
 |---|---|
-| Analysis | Python, Pandas, NumPy |
-| Visualization | Matplotlib, Seaborn, Power BI |
+| Analysis & Modeling | Python, Pandas, Scikit-learn |
+| Deployment | Streamlit |
 
-🔗 [Code](https://github.com/Akshad28/Loan-Risk-and-Performance-Analysis)
+🔗 [Code](https://github.com/Akshad28/German-Car-Price-Predictor)
+
+<br/>
+
+### ⚽ FIFA Player Analytics Suite (FIFA 17–23)
+Built a four-dashboard Power BI analytics suite analyzing 122,000+ player records and 43,000+ unique players across seven FIFA editions, with a star-schema data model and 25+ DAX measures.
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshad28&repo=REPLACE-WITH-FIFA-REPO-NAME&theme=nord&border_color=B4F527" />
+
+| Layer | Technology |
+|---|---|
+| ETL & Modeling | Python, Power Query, DAX |
+| Visualization | Power BI |
+
+🔗 [Dashboard/Code](REPLACE-WITH-LINK)
 
 <br/>
 
