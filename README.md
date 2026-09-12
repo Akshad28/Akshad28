@@ -52,7 +52,7 @@ Built a four-dashboard Power BI suite analyzing 122,000+ player records and 43,0
 
 `Python` `Power Query` `DAX` `Power BI`
 
-⭐ [Dashboard/Code](REPLACE-WITH-LINK)
+⭐ [Code](https://github.com/Akshad28/FC-2017-2023-Performance-Dashboard) · [Live Dashboard](https://app.powerbi.com/links/LmVE9MeVyn?ctid=f4640c5a-eb04-4c2f-a27f-8de5caff562b&pbi_source=linkShare)
 
 </td>
 </tr>
@@ -80,12 +80,14 @@ Built an interactive dashboard analyzing D-Mart sales trends, revenue performanc
 </tr>
 </table>
 
+<div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshad28&repo=German-Car-Price-Predictor&theme=dracula&border_color=FFD700&hide_border=false" />
-[![FIFA Player Analytics Suite](https://img.shields.io/badge/⚽_FIFA_Player_Analytics_Suite-FFD700?style=for-the-badge&labelColor=2D1B4E)](REPLACE-WITH-LINK)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshad28&repo=FC-2017-2023-Performance-Dashboard&theme=dracula&border_color=FFD700&hide_border=false" />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshad28&repo=Metro-System-using-SQL&theme=dracula&border_color=9D4EDD&hide_border=false" />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshad28&repo=Dmart-Sales-Analysis-Dashboard&theme=dracula&border_color=9D4EDD&hide_border=false" />
 
-*(Gold border marks German Car — a real, linkable repo, so its pin card can render properly. FIFA shows as a plain badge instead of a pin card, since a GitHub-stats pin can only render for a real public repo — swap it for a matching pin once you give me the repo/link. Purple-bordered pins mark Metro/Dmart as supporting projects.)*
+</div>
 
 <br/>
 
@@ -145,7 +147,6 @@ Built an interactive dashboard analyzing D-Mart sales trends, revenue performanc
 
 <div align="center">
 
-<!-- One-time setup needed: add the "snk" GitHub Action to your Akshad28/Akshad28 repo (github.com/Platane/snk#-getting-started) — it auto-generates this animated graph from your contribution history. -->
 <img src="https://raw.githubusercontent.com/Akshad28/Akshad28/output/github-contribution-grid-snake.svg" width="98%"/>
 
 </div>
