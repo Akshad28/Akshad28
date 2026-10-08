@@ -42,7 +42,7 @@ Predicted resale prices for VW and Audi vehicles using the "100,000 UK Used Car 
 
 `Python` `Pandas` `Scikit-learn` `Streamlit`
 
-⭐ [Code](https://github.com/Akshad28/German-Car-Price-Predictor)
+⭐ [Code](https://github.com/Akshad28/German-Car-Price-Prediction)
 
 </td>
 <td width="50%">
